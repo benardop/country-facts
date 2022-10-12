@@ -1,0 +1,89 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Check if the component has changed 1`] = `
+Array [
+  <div
+    className="container"
+  >
+    <div
+      className="container"
+      style={
+        Object {
+          "backgroundColor": "rgb(65,104,177)",
+        }
+      }
+    >
+      <a
+        className="link"
+        href="/details"
+        onClick={[Function]}
+      >
+        <img
+          alt="arrow"
+          src="arrow.svg"
+        />
+      </a>
+      <h1>
+        Iraq
+      </h1>
+      <div>
+        <img
+          alt="flag"
+          onError={[Function]}
+          src="https//flag"
+        />
+      </div>
+      <h2>
+        Capital :
+        Bagdad
+      </h2>
+      <h2>
+        Timezone :
+        <br />
+         
+        utc+1
+      </h2>
+    </div>
+    <div
+      className="container"
+      style={
+        Object {
+          "backgroundColor": "rgb(63,98,166)",
+        }
+      }
+    >
+      <a
+        className="link"
+        href="/details"
+        onClick={[Function]}
+      >
+        <img
+          alt="arrow"
+          src="arrow.svg"
+        />
+      </a>
+      <h1>
+        Iraq
+      </h1>
+      <div>
+        <img
+          alt="flag"
+          onError={[Function]}
+          src="https//flag"
+        />
+      </div>
+      <h2>
+        Capital :
+        Bagdad
+      </h2>
+      <h2>
+        Timezone :
+        <br />
+         
+        utc+1
+      </h2>
+    </div>
+  </div>,
+  ",",
+]
+`;
