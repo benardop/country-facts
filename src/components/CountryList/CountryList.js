@@ -6,7 +6,7 @@ import style from './style.module.css';
 function CountryList(props) {
   const { countries } = props;
   return (
-    <div className={style.container}>
+    <div className={style.container} data-testid="countryList-container">
       {countries.map((el, index) => <CountryItem country={el} key={el.name} st={index % 2 === 0 ? 'rgb(65,104,177)' : 'rgb(63,98,166)'} />)}
     </div>
   );
