@@ -22,7 +22,7 @@ function Home() {
     [dispatch],
   );
   return (
-    <div>
+    <div data-testid="home-container">
       <div className={style.dropDown}>
         <select
           name="drop-down"
