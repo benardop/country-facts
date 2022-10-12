@@ -4,9 +4,11 @@ exports[`Check if the component has changed 1`] = `
 Array [
   <div
     className="container"
+    data-testid="countryList-container"
   >
     <div
       className="container"
+      data-testid="component-container"
       style={
         Object {
           "backgroundColor": "rgb(65,104,177)",
@@ -20,12 +22,10 @@ Array [
       >
         <img
           alt="arrow"
+          data-testid="go-to-details"
           src="arrow.svg"
         />
       </a>
-      <h1>
-        Iraq
-      </h1>
       <div>
         <img
           alt="flag"
@@ -33,19 +33,16 @@ Array [
           src="https//flag"
         />
       </div>
+      <h1>
+        Iraq
+      </h1>
       <h2>
-        Capital :
-        Bagdad
-      </h2>
-      <h2>
-        Timezone :
-        <br />
-         
         utc+1
       </h2>
     </div>
     <div
       className="container"
+      data-testid="component-container"
       style={
         Object {
           "backgroundColor": "rgb(63,98,166)",
@@ -59,12 +56,10 @@ Array [
       >
         <img
           alt="arrow"
+          data-testid="go-to-details"
           src="arrow.svg"
         />
       </a>
-      <h1>
-        Iraq
-      </h1>
       <div>
         <img
           alt="flag"
@@ -72,14 +67,10 @@ Array [
           src="https//flag"
         />
       </div>
+      <h1>
+        Iraq
+      </h1>
       <h2>
-        Capital :
-        Bagdad
-      </h2>
-      <h2>
-        Timezone :
-        <br />
-         
         utc+1
       </h2>
     </div>

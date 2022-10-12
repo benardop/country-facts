@@ -4,8 +4,10 @@ exports[`Check if the component has changed 1`] = `
 Array [
   <div
     className="header"
+    data-testid="header-container"
   >
     <a
+      data-testid="go-to-home"
       href="/"
       onClick={[Function]}
     >

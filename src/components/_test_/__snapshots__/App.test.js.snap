@@ -3,11 +3,25 @@
 exports[`Check if Item component has changed 1`] = `
 <div
   className="App"
+  data-testid="app-container"
 >
+  <button
+    className="btn"
+    onClick={[Function]}
+    type="submit"
+  >
+    <img
+      alt="scroll-up"
+      className="hide"
+      src="scrollup.svg"
+    />
+  </button>
   <div
     className="header"
+    data-testid="header-container"
   >
     <a
+      data-testid="go-to-home"
       href="/"
       onClick={[Function]}
     >
@@ -30,7 +44,9 @@ exports[`Check if Item component has changed 1`] = `
       />
     </div>
   </div>
-  <div>
+  <div
+    data-testid="home-container"
+  >
     <div
       className="dropDown"
     >
@@ -72,6 +88,7 @@ exports[`Check if Item component has changed 1`] = `
     </div>
     <div
       className="container"
+      data-testid="countryList-container"
     />
   </div>
 </div>

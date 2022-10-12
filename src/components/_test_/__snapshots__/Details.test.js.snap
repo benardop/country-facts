@@ -3,76 +3,104 @@
 exports[`Check if the component has changed 1`] = `
 <div
   className="container"
+  data-testid="details-container"
 >
-  <img
-    alt="Flag"
-  />
-  <h2 />
-  <div>
-    <span>
-      Capitel
-    </span>
-     
-    <span>
-      :
-    </span>
-     
-    <span />
+  <div
+    className="top"
+  >
+    <img
+      alt="Flag"
+    />
+    <div
+      className="name"
+    >
+      <h2 />
+      <span />
+    </div>
   </div>
-  <div>
+  <div
+    className="detail"
+  >
+    <span>
+      Capital
+    </span>
+    <div>
+      <span />
+      <img
+        alt="arrow"
+        src="arrow.svg"
+      />
+    </div>
+  </div>
+  <div
+    className="detail"
+  >
     <span>
       Timezone
     </span>
-     
-    <span>
-      :
-    </span>
-     
-    <span />
+    <div>
+      <span />
+      <img
+        alt="arrow"
+        src="arrow.svg"
+      />
+    </div>
   </div>
-  <div>
+  <div
+    className="detail"
+  >
     <span>
       population
     </span>
-     
-    <span>
-      :
-    </span>
-     
-    <span />
+    <div>
+      <span />
+      <img
+        alt="arrow"
+        src="arrow.svg"
+      />
+    </div>
   </div>
-  <div>
+  <div
+    className="detail"
+  >
     <span>
       Formal Language
     </span>
-     
-    <span>
-      :
-    </span>
-     
-    <span />
+    <div>
+      <span />
+      <img
+        alt="arrow"
+        src="arrow.svg"
+      />
+    </div>
   </div>
-  <div>
+  <div
+    className="detail"
+  >
     <span>
       Area
     </span>
-     
-    <span>
-      :
-    </span>
-     
-    <span />
+    <div>
+      <span />
+      <img
+        alt="arrow"
+        src="arrow.svg"
+      />
+    </div>
   </div>
-  <div>
+  <div
+    className="detail"
+  >
     <span>
       Currency
     </span>
-     
-    <span>
-      :
-    </span>
-     
-    <span />
+    <div>
+      <span />
+      <img
+        alt="arrow"
+        src="arrow.svg"
+      />
+    </div>
   </div>
 </div>
 `;

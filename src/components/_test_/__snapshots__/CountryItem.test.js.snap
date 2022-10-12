@@ -4,6 +4,7 @@ exports[`Check if Item component has changed 1`] = `
 Array [
   <div
     className="container"
+    data-testid="component-container"
     style={
       Object {
         "backgroundColor": undefined,
@@ -17,12 +18,10 @@ Array [
     >
       <img
         alt="arrow"
+        data-testid="go-to-details"
         src="arrow.svg"
       />
     </a>
-    <h1>
-      Iraq
-    </h1>
     <div>
       <img
         alt="flag"
@@ -30,14 +29,10 @@ Array [
         src="https//flag"
       />
     </div>
+    <h1>
+      Iraq
+    </h1>
     <h2>
-      Capital :
-      Bagdad
-    </h2>
-    <h2>
-      Timezone :
-      <br />
-       
       utc+1
     </h2>
   </div>,
