@@ -5,9 +5,9 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  background-color: rgb(53, 84, 139);
-  row-gap: 0;
+  background-color: #35548b;
   padding: 2rem  3rem;
+  row-gap: 0;
 }
 
 .container img {
