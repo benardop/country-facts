@@ -2,18 +2,25 @@
 
 .container {
   display: flex;
-  position: relative;
   flex-direction: column;
   justify-content: center;
+  flex-basis: 30%;
+  position: relative;
   align-items: center;
   box-sizing: border-box;
-  flex-basis: 30%;
 }
 
 .container h1 {
   font-size: 1.5rem;
   font-family: 'Puritan', sans-serif;
   color: white;
+}
+
+.container div {
+  height: 200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .link {
@@ -24,13 +31,6 @@
 
 .link img {
   width: 2rem;
-}
-
-.container div {
-  height: 200px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
 }
 
 .container div img {
