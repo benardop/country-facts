@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/country-facts/static/css/main.d6d1f05c.css",
+    "main.js": "/country-facts/static/js/main.0c576a47.js",
+    "static/media/spareFalg.svg": "/country-facts/static/media/spareFalg.ccb47c687acb919a2c78ce77b36e6752.svg",
+    "index.html": "/country-facts/index.html",
+    "static/media/arrow.svg": "/country-facts/static/media/arrow.cd191373d80e6e6fefb695c1955304f2.svg",
+    "static/media/mic.svg": "/country-facts/static/media/mic.6e5fc6c2e0168e9fc7c1d060bce54ed4.svg",
+    "static/media/scrollup.svg": "/country-facts/static/media/scrollup.6db387719afc8b4b23f65d612f3dd1c6.svg",
+    "static/media/leftArrow.svg": "/country-facts/static/media/leftArrow.bb9af2e2ef07f5920642b124266cd41c.svg",
+    "static/media/threeDots.svg": "/country-facts/static/media/threeDots.a703f652b6c274235aeb35b18f5a36ea.svg",
+    "main.d6d1f05c.css.map": "/country-facts/static/css/main.d6d1f05c.css.map",
+    "main.0c576a47.js.map": "/country-facts/static/js/main.0c576a47.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d6d1f05c.css",
+    "static/js/main.0c576a47.js"
+  ]
+}
