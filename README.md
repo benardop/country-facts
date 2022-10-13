@@ -1,19 +1,20 @@
 # Country-Facts
-Microverse Module 03 Project: This educational project is to create a React Country-Facts Application that allows the user to display various metric information about a given selected Country from an API.
- 
+Contries facts is a a React and Redux Asing Page Application(SPA) application that dispalys key information about various countries in the world. 
 ## Built With the following
 
 - CSS
 - React.js
 - Javascript
-- JSX
 - Babel
 - Redux
 - Linters
 
 ## Live Demo
-[Live Demo Link](Coming soon)
+[Live Demo Link](https://benardop.github.io/country-facts/)
 
+
+### Video Link
+[Click here](https://www.loom.com/share/5edf4737eb52433ca196208be298e996)
 
 Please get your browser update.
 To get a local copy up and running follow these simple steps.
@@ -29,6 +30,11 @@ Run the command below from the Terminal:
 ## Usage
 Run the following command in yout terminal to start your local server to run the App:
 npm run start
+
+### Running Tests
+cd country-facts
+npm install
+npm test
 
 ## Authors
 
@@ -51,7 +57,12 @@ Give a ⭐ if you like this project!
 
 ## Acknowledgments
 
-- Thanks to Microverse team and my session Coding Partners
+## Acknowledgments
+
+- Microverse
+- [Countries API](https://restcountries.com/v3.1/all).
+- [ Nelson Sakwa](https://www.behance.net/sakwadesignstudio) for the amazing [on Behance](<https://www.behance.net/gallery/31579789/Ballhead-App-(Free-PSDs)>)
+
 
 ## 📝 License
 
