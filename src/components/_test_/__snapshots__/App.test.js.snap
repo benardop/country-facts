@@ -1,0 +1,95 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Check if Item component has changed 1`] = `
+<div
+  className="App"
+  data-testid="app-container"
+>
+  <button
+    className="btn"
+    onClick={[Function]}
+    type="submit"
+  >
+    <img
+      alt="scroll-up"
+      className="hide"
+      src="scrollup.svg"
+    />
+  </button>
+  <div
+    className="header"
+    data-testid="header-container"
+  >
+    <a
+      data-testid="go-to-home"
+      href="/"
+      onClick={[Function]}
+    >
+      <img
+        alt="left arrow"
+        src="leftArrow.svg"
+      />
+    </a>
+    <span>
+      Country facts
+    </span>
+    <div>
+      <img
+        alt="microphone"
+        src="mic.svg"
+      />
+      <img
+        alt="three dots"
+        src="threeDots.svg"
+      />
+    </div>
+  </div>
+  <div
+    data-testid="home-container"
+  >
+    <div
+      className="dropDown"
+    >
+      <select
+        name="drop-down"
+        onChange={[Function]}
+      >
+        <option
+          value="all"
+        >
+          All
+        </option>
+        <option
+          value="Asia"
+        >
+          Asia
+        </option>
+        <option
+          value="Africa"
+        >
+          Africa
+        </option>
+        <option
+          value="Americas"
+        >
+          America
+        </option>
+        <option
+          value="Europe"
+        >
+          Europe
+        </option>
+        <option
+          value="Oceania"
+        >
+          Oceania
+        </option>
+      </select>
+    </div>
+    <div
+      className="container"
+      data-testid="countryList-container"
+    />
+  </div>
+</div>
+`;

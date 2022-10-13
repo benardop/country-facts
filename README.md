@@ -1,70 +1,69 @@
-# Getting Started with Create React App
+# Country-Facts
+Contries facts is a a React and Redux Asing Page Application(SPA) application that dispalys key information about various countries in the world. 
+## Built With the following
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+- CSS
+- React.js
+- Javascript
+- Babel
+- Redux
+- Linters
 
-## Available Scripts
+## Live Demo
+[Live Demo Link](https://benardop.github.io/country-facts/)
 
-In the project directory, you can run:
 
-### `npm start`
+### Video Link
+[Click here](https://www.loom.com/share/5edf4737eb52433ca196208be298e996)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Please get your browser update.
+To get a local copy up and running follow these simple steps.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Run the command below from the Terminal:
 
-### `npm test`
+      git clone <URL> ' https://github.com/benardop/country-facts.git' in your terminal
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+	  cd country-facts
+        run the following commend to install packages:
+        npm install
 
-### `npm run build`
+## Usage
+Run the following command in yout terminal to start your local server to run the App:
+npm run start
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Running Tests
+cd country-facts
+npm install
+npm test
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Authors
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+👤 **Benard**
 
-### `npm run eject`
+- Location: Kenya
+- GitHub: [benardop](https://github.com/benardop/)
+- Twitter: [@Bepacho](https://twitter.com/Bepacho)
+- LinkedIn: [Benard Pacho](https://www.linkedin.com/in/ochieng-benard-8264b815/)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## 🤝 Contributing
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Contributions, issues, and feature requests are welcome!
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Feel free to check the [issues page](https://github.com/benardop/country-facts/issues).
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## Show your support
 
-## Learn More
+Give a ⭐ if you like this project!
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Acknowledgments
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Acknowledgments
 
-### Code Splitting
+- Microverse
+- [Countries API](https://restcountries.com/v3.1/all).
+- [ Nelson Sakwa](https://www.behance.net/sakwadesignstudio) for the amazing [on Behance](<https://www.behance.net/gallery/31579789/Ballhead-App-(Free-PSDs)>)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
+## 📝 License
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This project is [MIT](./MIT.md) licensed.

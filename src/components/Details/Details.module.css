@@ -1,0 +1,159 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Puritan&display=swap');
+
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(53, 84, 139);
+  row-gap: 0;
+  padding: 2rem  3rem;
+}
+
+.container img {
+  width: 50%;
+  max-width: 600px;
+}
+
+.top {
+  padding: 2rem 1rem 3rem !important;
+  align-items: flex-end !important;
+}
+
+.name {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: flex-end;
+  padding: 0 !important;
+  background-color: rgb(65, 104, 177) !important;
+}
+
+.name span {
+  font-size: 1.5rem;
+  color: white;
+}
+
+.container div div h2 {
+  color: white;
+  font-size: 2.5rem;
+  font-weight: 700;
+  line-height: 1.5rem;
+  margin: 0;
+  text-align: end;
+}
+
+.detail span {
+  font-family: 'Lato', sans-serif;
+  font-weight: 700;
+  font-size: 1.5rem;
+  color: white;
+}
+
+.detail div span {
+  font-family: 'Lato', sans-serif;
+  font-weight: 700;
+  font-size: 1.5rem;
+  color: white;
+}
+
+.container div div span {
+  margin: 0.5rem;
+  padding: 0%;
+}
+
+.container div {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1.5rem 1rem;
+}
+
+.detail div {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  background-color: inherit !important;
+}
+
+.container div:nth-child(odd) {
+  background-color: rgb(65, 104, 177);
+}
+
+.container div:nth-child(even) {
+  background-color: rgb(63, 98, 166);
+}
+
+.detail {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 1rem;
+}
+
+.detail div img {
+  width: 2rem;
+}
+
+@media only screen and (max-width: 700px) {
+  .container {
+    padding: 0%;
+    width: 100vw;
+  }
+
+  .top {
+    box-sizing: border-box;
+  }
+
+  .container div div h2 {
+    color: white;
+    font-size: 1.5rem;
+    font-weight: 700;
+    line-height: 1.5rem;
+    margin: 0 1rem;
+  }
+
+  .name {
+    align-items: flex-end !important;
+  }
+
+  .name span {
+    margin-right: 16px !important;
+    font-size: 1rem;
+  }
+
+  .detail {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    box-sizing: border-box;
+    padding: 1rem !important;
+  }
+
+  .detail span {
+    font-family: 'Lato', sans-serif;
+    font-weight: 700;
+    font-size: 1.2rem;
+    color: white;
+  }
+
+  .detail div {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    background-color: inherit !important;
+    padding: 0%;
+  }
+
+  .detail div span {
+    font-family: 'Lato', sans-serif;
+    font-weight: 700;
+    font-size: 1.2rem;
+    color: white;
+  }
+
+  .detail div img {
+    width: 2rem;
+  }
+}

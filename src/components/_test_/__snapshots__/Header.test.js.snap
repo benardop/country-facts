@@ -1,0 +1,35 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Check if the component has changed 1`] = `
+Array [
+  <div
+    className="header"
+    data-testid="header-container"
+  >
+    <a
+      data-testid="go-to-home"
+      href="/"
+      onClick={[Function]}
+    >
+      <img
+        alt="left arrow"
+        src="leftArrow.svg"
+      />
+    </a>
+    <span>
+      Country facts
+    </span>
+    <div>
+      <img
+        alt="microphone"
+        src="mic.svg"
+      />
+      <img
+        alt="three dots"
+        src="threeDots.svg"
+      />
+    </div>
+  </div>,
+  ",",
+]
+`;

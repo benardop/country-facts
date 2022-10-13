@@ -1,0 +1,106 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Check if the component has changed 1`] = `
+<div
+  className="container"
+  data-testid="details-container"
+>
+  <div
+    className="top"
+  >
+    <img
+      alt="Flag"
+    />
+    <div
+      className="name"
+    >
+      <h2 />
+      <span />
+    </div>
+  </div>
+  <div
+    className="detail"
+  >
+    <span>
+      Capital
+    </span>
+    <div>
+      <span />
+      <img
+        alt="arrow"
+        src="arrow.svg"
+      />
+    </div>
+  </div>
+  <div
+    className="detail"
+  >
+    <span>
+      Timezone
+    </span>
+    <div>
+      <span />
+      <img
+        alt="arrow"
+        src="arrow.svg"
+      />
+    </div>
+  </div>
+  <div
+    className="detail"
+  >
+    <span>
+      population
+    </span>
+    <div>
+      <span />
+      <img
+        alt="arrow"
+        src="arrow.svg"
+      />
+    </div>
+  </div>
+  <div
+    className="detail"
+  >
+    <span>
+      Formal Language
+    </span>
+    <div>
+      <span />
+      <img
+        alt="arrow"
+        src="arrow.svg"
+      />
+    </div>
+  </div>
+  <div
+    className="detail"
+  >
+    <span>
+      Area
+    </span>
+    <div>
+      <span />
+      <img
+        alt="arrow"
+        src="arrow.svg"
+      />
+    </div>
+  </div>
+  <div
+    className="detail"
+  >
+    <span>
+      Currency
+    </span>
+    <div>
+      <span />
+      <img
+        alt="arrow"
+        src="arrow.svg"
+      />
+    </div>
+  </div>
+</div>
+`;
