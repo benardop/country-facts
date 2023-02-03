@@ -1,5 +1,5 @@
 # Country-Facts
-Contries facts is a a React and Redux Asing Page Application(SPA) application that displays key information about various countries in the world. 
+Country facts is a a React and Redux Asing Page Application(SPA) application that displays key information about various countries in the world. 
 ## Built With the following
 
 - CSS
