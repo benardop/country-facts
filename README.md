@@ -58,7 +58,6 @@ Feel free to check the [issues page](https://github.com/benardop/country-facts/i
 
 Give a ⭐ if you like this project!
 
-## Acknowledgments
 
 ## Acknowledgments
 
