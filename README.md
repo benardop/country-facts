@@ -13,7 +13,7 @@ Country facts is a a React and Redux is a Single Page Application(SPA) that disp
 ![App screenshot](https://user-images.githubusercontent.com/620415/218540593-99959f93-56c1-4cdc-8515-b324c6ed61f4.PNG)
 
 ## Live Demo
-[Live Demo Link](https://benardop.github.io/country-facts/)
+[Live Demo Link](https://benardop.github.io/country-facts/)👈
 
 
 ### Video Link
